@@ -1,0 +1,9 @@
+{
+  "max_appid":"",
+  "max_splash_id":"",
+  "max_feeds_id":"",
+  "max_rewardvideo_id":"",
+  "max_interstitial_id":"",
+  "show_ad":false,
+  "keep_alive":true
+}
